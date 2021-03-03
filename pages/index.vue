@@ -24,8 +24,8 @@
 <script lang="ts">
 import Vue from 'vue'
 
+import axios from '~/utils/axios'
 import Layout from '~/components/Layout.vue'
-import { allAirports } from '~/models/airport'
 import Airport from '~/types/airport'
 
 interface Data {
@@ -46,8 +46,8 @@ export default Vue.extend({
   },
   methods: {
     async loadAirports () {
-      // TODO: Move this to API call
-      this.airports = await allAirports()
+      const response = await axios.get<Airport[]>('/api/airports').catch(err => err.response)
+      this.airports = response.data
     }
   }
 })
