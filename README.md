@@ -1,20 +1,16 @@
-# code-challenge-nuxtjs
+# DBL Code Challenge: NextJS
 
-## Build Setup
+## Getting Started
 
-```bash
-# install dependencies
-$ yarn install
+```shell
+yarn install
+```
 
-# serve with hot reload at localhost:3000
-$ yarn dev
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+## Running locally
 
-# generate static project
-$ yarn generate
+```shell
+yarn dev
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
