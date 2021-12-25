@@ -5,6 +5,11 @@ This is a simple app to lookup airport information.
 We expect you to work on this challenge for about 1h.
 
 
+Imagine the designer gave you the following mock up:
+
+![image](https://user-images.githubusercontent.com/20702503/147386690-2806ba6f-a390-4072-a2e8-185781bd71dc.png)
+
+
 
 ## Getting Started
 
