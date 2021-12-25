@@ -2,6 +2,8 @@
 
 This is a simple app to lookup airport information.
 
+We expect you to work on this challenge for about 1h.
+
 
 
 ## Getting Started
