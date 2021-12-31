@@ -90,7 +90,7 @@ export default Vue.extend({
     		this.cache = this.airports;
     	}
 
-    	this.$debounce.trigger(async () => {
+    	this.$debounce.trigger(() => {
     		if (userSearchString.length > 0) {
     			// this.airports = await axios
     			// 	.get(`/api/airports/search?query=${userSearchString}&page=${this.page}&limit=50`)
