@@ -2,7 +2,7 @@
 
 To work on this project I implemented below Git Strategy.
 
-![image](https://ibb.co/23R8pvW)
+![image](./readme-images/git-strategy.png)
 
 To view all commits please click [here](https://github.com/zafar-saleem/airports-filter/commits/main).
 
