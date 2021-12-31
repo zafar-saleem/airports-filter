@@ -10,6 +10,10 @@ To view all branches please click [here](https://github.com/zafar-saleem/airport
 
 To view all pull request please click [here](https://github.com/zafar-saleem/airports-filter/pulls?q=is%3Apr+is%3Aclosed).
 
+To view Git Strategy please click [here](https://swimlanes.io/u/qkmuwR9iG).
+
+To view screencast please click [here](https://youtu.be/-YIkbSaORaQ).
+
 # DBL Code Challenge: NuxtJS
 
 This is a simple app to lookup airport information.
