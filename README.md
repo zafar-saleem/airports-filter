@@ -1,3 +1,15 @@
+# Notes
+
+To work on this project I implemented below Git Strategy.
+
+![image](https://ibb.co/23R8pvW)
+
+To view all commits please click [here](https://github.com/zafar-saleem/airports-filter/commits/main).
+
+To view all branches please click [here](https://github.com/zafar-saleem/airports-filter/branches).
+
+To view all pull request please click [here](https://github.com/zafar-saleem/airports-filter/pulls?q=is%3Apr+is%3Aclosed).
+
 # DBL Code Challenge: NuxtJS
 
 This is a simple app to lookup airport information.
